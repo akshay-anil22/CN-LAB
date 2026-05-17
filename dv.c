@@ -56,7 +56,12 @@ int main() {
         }
     }
 
-    
+    initialize();
+    updateRoutes();
+    display();
+
+
+
 
     return 0;
 }
